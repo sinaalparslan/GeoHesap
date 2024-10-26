@@ -33,3 +33,8 @@ re: girdi değerlerinin kontrolü için kullanıldı.
 Geomatik Mühendisleri ve aday öğrencilerin kullanabilmesi amacıyla poligon hesabı, yükseklik ölçmeleri, datum ve koordinat dönüşümü gibi temel işlemler için gerekli hesapları yapabilen, tablo, grafik ve WEB harita çıktısı
 verebilen Python tabanlı bir yazılım geliştirilmiştir.
 Geliştirilen modüller daha önce Beytepe Yerleşkesi sınırları içinde gerçekleştirilen arazi çalışmalarının verileri ile test edilerek elde edilen sonuçların uyumlu olduğu görülmüştür.
+
+<img width="420" alt="1" src="https://github.com/user-attachments/assets/d7d473e4-718e-4552-b9c4-bc39b7cf3719">
+<img width="425" alt="2" src="https://github.com/user-attachments/assets/dbc62abc-0f7c-4e73-93c6-322fb3d789ac">
+<img width="268" alt="3" src="https://github.com/user-attachments/assets/0cfb9211-34a3-4bd7-af32-ccbb754a5a94">
+
